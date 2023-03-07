@@ -1,0 +1,14 @@
+Algoritmo de conversão de temperatura: um algoritmo que converte uma temperatura em Celsius para Fahrenheit ou vice-versa.
+
+leia a temperatura
+leia a unidade
+leia o resultado 
+
+se unidade= celsius
+resultado= temperatura * 1,8 + 32
+escreva o resultado
+
+senão se unidade= Fahrenheit
+resultaado= (temperatura-32)/1,8
+escreva o resultado
+
