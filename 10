@@ -1,0 +1,11 @@
+leia lista_numeros
+leia lista_pesos
+var somatorio_numeros = 0
+var somatorio_pesos = 0
+para cada elemento da lista_numeros, faça:
+somatorio_numeros = somatorio_numeros + (elemento * peso_correspondente)
+para cada peso da lista_pesos, faça:
+somatorio_pesos = somatorio_pesos + peso
+media = somatorio_numeros / somatorio_pesos
+escreva media
+fim
